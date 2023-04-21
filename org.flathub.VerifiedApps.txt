@@ -1,0 +1,14 @@
+# com.endlessm.HatchPreviewer
+e77fd42b-595e-40d2-8330-c4c635a25767
+
+# com.endlessm.photos
+d5fc9460-beea-4058-a294-6234d48da38f
+
+# com.hack_computer.Clubhouse
+cd4eee86-265d-446b-b448-0d131b3c46f5
+
+# com.hack_computer.OperatingSystemApp
+a251f97f-d2dc-4d74-a8f1-2990ae20a1df
+
+# com.hack_computer.Sidetrack
+acfe26ee-f8dc-4635-933b-4f187aa9edaa
