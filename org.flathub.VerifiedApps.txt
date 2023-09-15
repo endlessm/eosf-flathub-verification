@@ -12,3 +12,6 @@ a251f97f-d2dc-4d74-a8f1-2990ae20a1df
 
 # com.hack_computer.Sidetrack
 acfe26ee-f8dc-4635-933b-4f187aa9edaa
+
+# org.endlessos.Key
+2f909b7e-8cea-40a7-a94e-590618b60fb0
