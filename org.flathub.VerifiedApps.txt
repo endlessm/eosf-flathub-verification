@@ -4,6 +4,9 @@ e77fd42b-595e-40d2-8330-c4c635a25767
 # com.endlessm.photos
 d5fc9460-beea-4058-a294-6234d48da38f
 
+# com.hack_computer.Clippy.Extension
+ef701fa2-5537-4c0c-95bd-a7ccccdf336b
+
 # com.hack_computer.Clubhouse
 cd4eee86-265d-446b-b448-0d131b3c46f5
 
