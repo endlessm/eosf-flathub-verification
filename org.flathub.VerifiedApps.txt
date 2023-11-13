@@ -4,6 +4,9 @@ e77fd42b-595e-40d2-8330-c4c635a25767
 # com.endlessm.photos
 d5fc9460-beea-4058-a294-6234d48da38f
 
+# com.gamestarmechanic.gamestarmechanic
+e84a90da-4c69-471e-8679-519e1a4c205c
+
 # com.hack_computer.Clippy.Extension
 ef701fa2-5537-4c0c-95bd-a7ccccdf336b
 
