@@ -21,3 +21,6 @@ acfe26ee-f8dc-4635-933b-4f187aa9edaa
 
 # org.endlessos.Key
 2f909b7e-8cea-40a7-a94e-590618b60fb0
+
+# org.endlessaccess.threadbare
+f53da256-a819-4dc4-a6a7-26455927b9c3
